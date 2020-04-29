@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GlobAttack:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GlobAttack_jar</output-path>
+    <root id="archive" name="GlobAttack.jar">
+      <element id="module-output" name="GlobAttack" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/processing-3.5.3-windows64/processing-3.5.3/core/library/core.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
